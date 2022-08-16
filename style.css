@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+
+}
+
+#picture {
+    float: left;
+}
+
+#description {
+    float: right;
+}
